@@ -10,7 +10,7 @@ export const dogsData = [
         name: "Popoy",
         avatar: "images/popoy.jpg",
         age: 21,
-        bio: "Yup, that's my owner. U can meet him if you want",
+        bio: "That's my owner. U can meet him if you want",
         hasBeenSwiped: false,
         hasBeenLiked: false
     },
